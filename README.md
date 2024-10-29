@@ -63,9 +63,3 @@ HoloViewer take steps to ensure that your information is treated securely by ado
 
 
 If you have any questions, comments, or concerns about this notice, or you would like to exercise your privacy rights, please email us at holoviewer@startwilight.com Privacy Policy.
-
-
-7. CONTACT INFORMATION 
-
-
-If you have any questions, comments, or concerns about this notice, or you would like to exercise your privacy rights, please email us at holoviewer@startwilight.com
