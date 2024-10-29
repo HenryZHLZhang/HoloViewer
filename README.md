@@ -31,7 +31,7 @@ API and Software Development Kits: we may use third party APIs and SDKs as part 
 Information Shared with Other Users: when you use HoloViewer, certain personal information may be shared with other users such as your name and profile picture or avatar. Please note that HoloViewer has little or no control over how individuals may use the content you share. You choose with whom you wish to share your content in HoloViewer.
 
 
-Pursuant to Legal Requirements: we reserve the right to disclose your information if we believe that we are required to do so by law, regulation or legal process such as in response to a court order, subpoena, or similar investigative demand;-
+Pursuant to Legal Requirements: we reserve the right to disclose your information if we believe that we are required to do so by law, regulation or legal process such as in response to a court order, subpoena, or similar investigative demand;
 
 
 Merger, Sale or Other Asset Transfers: Information may be disclosed and transferred to an acquirer, successor or assignee as part of any merger, acquisition, debt financing, sale of assets, or similar transaction.
